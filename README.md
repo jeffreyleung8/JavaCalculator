@@ -1,2 +1,2 @@
 # JavaCalculator
-Simple calculator in Java
+ECSE202 Introduction to Software Development Final Assignment
